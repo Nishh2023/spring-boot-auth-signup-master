@@ -12,7 +12,7 @@
 <img style="height: 60px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2w1anQpFtDgmBl7WL0e_M9bxbmxhZZ1tnuA&usqp=CAU"/>
 
 
- <a href="main"> Home</a>
+ <a href="main"> Home Page</a>
 
 
 <a href="showHistory"> Login History</a>
