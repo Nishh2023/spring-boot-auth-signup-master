@@ -19,7 +19,7 @@
 
  <a href="logout">Logout</a>
  
-<h1>Welcome</h1>	     
+<h1>Hello</h1>	     
 
 
 </body>
